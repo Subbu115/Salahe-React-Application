@@ -8,8 +8,12 @@ function Terms() {
       <h2>Our Terms &amp; Conditions</h2>
       <div> </div>
 
-      <p>* Users should SignUp with the registration form to get loggedin to the site and post their content with proper title.</p>
-      <p>* Users have the availability to chat with other valid users who are registered.</p>
+      <p>
+        <b>*</b> Users should SignUp with the registration form to get loggedin to the site and post their content with proper title.
+      </p>
+      <p>
+        <b>*</b> Users have the availability to chat with other valid users who are registered.
+      </p>
     </Page>
   )
 }
