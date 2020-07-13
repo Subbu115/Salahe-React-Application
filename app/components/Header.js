@@ -10,11 +10,11 @@ function Header(props) {
   return (
     <header className="header-bar bg-primary mb-3">
       <div className="container d-flex flex-column flex-md-row align-items-center p-3">
-        <h2 className="my-0 mr-md-auto font-weight-normal">
+        <h1 className="my-0 mr-md-auto font-weight-normal">
           <Link to="/" className="text-white">
             Salahe
           </Link>
-        </h2>
+        </h1>
         {!props.staticEmpty ? headerContent : ""}
       </div>
     </header>
