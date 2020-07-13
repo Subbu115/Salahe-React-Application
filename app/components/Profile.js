@@ -109,7 +109,7 @@ function Profile() {
   }
 
   return (
-    <Page title="profile Screen">
+    <Page title="Profile">
       <h2>
         <img className="avatar-small" src={state.profileData.profileAvatar} />
         {state.profileData.profileUsername}
